@@ -1,11 +1,11 @@
 # Site settings
 author: Josh Morris
-title: 
+title: JMO's Blog
 header-img: img/home-bg.png
 email: jmo0624@gmail.com
 copyright_name: Josh Morris
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A blog for my portfolio projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  jmo0624
